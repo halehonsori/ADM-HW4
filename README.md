@@ -1,5 +1,5 @@
 # ADM-HW4
-## SCRIPTS FOLDER:
+## SCRIPTS:
 ### a jupyter notebok with all the scripts in each line.
-## SUBMISSIONS FOLDER
-### screenshots of my sabmission pages.
+## SUBMISSIONS:
+### a zip file containing screenshots of my sabmission pages.
